@@ -1,0 +1,29 @@
+{
+    "name": "mobile-number-tracker",
+    "description": "A JavaScript package for phone number validation and service provider lookup.",
+    "url": "https://github.com/pb2204/mobile-number-tracker.git",
+    "keywords": [
+        "mobile-number-tracker",
+        "mobile-number",
+        "open-source",
+        "hacktoberfest"
+    ],
+    "author": "Pabitra Banerjee",
+    "contributors": [
+        "Pabitra Banerjee"
+    ],
+    "license": "MIT",
+    "lib": ".",
+    "main": "src/index.js",
+    "bin": {
+        "phone-tracker": "./bin/cli.js"
+    },
+    "version": "3.4.5",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pb2204/mobile-number-tracker.git"
+    }
+}
